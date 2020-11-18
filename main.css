@@ -43,6 +43,18 @@ img:hover {
   text-align: right;
 }
 
+a {
+  color: rgb(225, 100, 180);
+}
+
+a:visited {
+  color: rgb(30, 250, 180)
+}
+
+a:hover {
+  color: rgb(250, 0, 110);
+}
+
 ul {
   list-style-type: none;
 }
